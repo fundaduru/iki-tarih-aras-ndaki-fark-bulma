@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(193, 209, 223);
+}
+.baslik{
+display: flex;            
+justify-content: center;            
+align-items: center;
+font-size: 25px;
+color: rgb(61, 59, 59);
+}
+
+
+#giris,#cikis,#ucret{
+    
+    border-color: rgb(94, 136, 136);
+   width: 300px;
+   height: 50px;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+   border-color: beige;
+   border-radius: 10px;
+   
+}
+#table{
+    display: flex;            
+    justify-content: center;            
+    align-items: center;
+    
+    
+    border-color: beige;
+}
+#hesapla{
+    width: 300px;
+   height: 50px;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+   border-radius: 10px;
+   border-color: beige;
+}
+.div{
+    display: flex;            
+    justify-content: center;            
+    align-items: center;
+    font-size: 20px;
+    color: rgb(61, 59, 59);
+}
